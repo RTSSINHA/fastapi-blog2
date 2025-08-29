@@ -4,4 +4,6 @@ pyvenv.cfg
 *.pyc
 .env
 venv
+venv2
+practice
 
